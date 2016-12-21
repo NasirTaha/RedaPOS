@@ -3,3 +3,16 @@
 ################################################################################
 
 /RedaPOS/RedaPOS/bin
+/RedaPOS/RedaPOS/obj/Debug
+/RedaPOS/RedaPOS/obj/Release/CSAutoParameterize
+/RedaPOS/RedaPOS/obj/Release/Package
+/RedaPOS/RedaPOS/obj/Release/TransformWebConfig
+/RedaPOS/RedaPOS/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
+/RedaPOS/RedaPOS/obj/Release/CSAutoParameterize.parameters.xml
+/RedaPOS/RedaPOS/obj/Release/RedaPOS.csprojResolveAssemblyReference.cache
+/RedaPOS/RedaPOS/obj/Release/RedaPOS.dll
+/RedaPOS/RedaPOS/obj/Release/RedaPOS.pdb
+/RedaPOS/RedaPOS/obj/Release/RedaPOS.csproj.FileListAbsolute.txt
+/RedaPOS/RedaPOS/obj/Release/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+/RedaPOS/RedaPOS/obj/Release/_WPPLastBuildInfo.txt
+/RedaPOS/RedaPOS/obj/Release/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs

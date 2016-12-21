@@ -119,6 +119,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="Test.htm" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
